@@ -46,12 +46,32 @@ section {
     padding: 20px;
     border-radius: 10px;
 }
-
-card {
+#about {
     border: 2px solid #305c89;
     padding: 15px;
     margin: 10px 0;
     background-color: #eef5ff;
+}
+
+#cards {
+    border: 2px solid #305c89;
+    padding: 15px;
+    margin: 10px 0;
+    background-color: #eef5ff;
+}
+
+#schedule {
+    border: 2px solid #305c89;
+    padding: 15px;
+    margin: 10px 0;
+    background-color: #eef5ff;
+}
+
+#gallery {
+    border: 2px solid #305c89;
+    padding: 15px;
+    margin: 10px 0;
+    background-color: #ffffff;
 }
 
 #gallery img {
